@@ -1,6 +1,6 @@
 #What is this?
 
-These HTML pages and assets, are my "about me" page, at http://lexoyo.me , hosted on github, at http://lexoyo.github.io/
+These 2 HTML pages ([index.html](http://lexoyo.github.io/index.html) and [index2.html](http://lexoyo.github.io/index2.html) ), are my "about me" pages, at http://lexoyo.me , hosted on github, at http://lexoyo.github.io/
 
 These pages are made without programming, just drag and drop, with [Silex, live web creation](http://projects.silexlabs.org/). So feel free to fork and use it for your own user page.
 
