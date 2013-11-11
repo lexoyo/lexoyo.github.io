@@ -2,7 +2,9 @@
 
 These 2 HTML pages ([index.html](http://lexoyo.github.io/index.html) and [index2.html](http://lexoyo.github.io/index2.html) ), are my "about me" pages, at http://lexoyo.me , hosted on github, at http://lexoyo.github.io/
 
-These pages are made without programming, just drag and drop, with [Silex, live web creation](http://projects.silexlabs.org/). So feel free to fork and use it for your own user page.
+These pages are made without programming, just drag and drop, with [Silex, live web creation](http://www.silex.me/). So feel free to fork and use it for your own user page.
+
+Silex template by lexoyo is licensed under a Creative Commons Attribution 3.0 Unported License.
 
 #other nice themes for github
 
