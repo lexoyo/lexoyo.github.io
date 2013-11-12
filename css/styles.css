@@ -54,15 +54,18 @@
 	background-color: transparent; top: 18px; left: 19px; width: 118px; height: 31px; position: absolute; 
 }
 .component_16{
-	background-color: transparent; left: 0px; height: 27px; bottom: 1px; right: 1px; position: absolute; 
+	background-color: transparent; left: 0px; height: 54px; bottom: 1px; right: 1px; position: absolute; 
 }
 .component_17{
-	background-color: transparent; top: 5px; left: 10.5px; width: 402px; height: 23px; position: absolute; 
+	background-color: transparent; width: 400px; height: 54px; bottom: 1px; right: 10px; position: absolute; 
 }
 .component_18{
-	background-color: transparent; width: 380px; bottom: 1px; right: 1px; position: absolute; 
+	background-color: transparent; left: 400px; height: 20px; bottom: 10px; right: 400px; position: absolute; 
 }
 .component_19{
+	background-color: transparent; left: 10px; width: 400px; height: 20px; bottom: 10px; position: absolute; 
+}
+.component_20{
 	background-color: transparent; top: 710px; left: 25px; width: 100px; height: 100px; position: absolute; 
 }
 body{
