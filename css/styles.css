@@ -1,73 +1,58 @@
 
-.component_0{
-	top: 0px; left: 0px; bottom: 0px; right: 0px; position: absolute; 
+.element-0{
+	background-color: rgba(255, 255, 255, 0.227451); left: 0px; height: 54px; bottom: 0px; right: 0px; position: absolute; background-repeat: repeat repeat;
 }
-.component_1{
-	background-color: transparent; left: 0px; height: 54px; bottom: 1px; right: 1px; position: absolute; 
+.element-1{
+	background-color: transparent; top: ; left: ; width: 300px; height: 54px; bottom: 1px; right: 10px; z-index: ; position: absolute; 
 }
-.component_2{
-	background-color: transparent; width: 300px; height: 54px; bottom: 1px; right: 10px; position: absolute; 
+.element-2{
+	background-color: transparent; top: ; left: 200px; width: ; height: 20px; bottom: 10px; right: 200px; z-index: ; position: absolute; 
 }
-.component_3{
-	background-color: transparent; left: 200px; height: 20px; bottom: 10px; right: 200px; position: absolute; 
+.element-3{
+	background-color: transparent; top: ; left: 10px; width: 400px; height: 20px; bottom: 10px; right: ; z-index: ; position: absolute; 
 }
-.component_4{
-	background-color: transparent; left: 10px; width: 400px; height: 20px; bottom: 10px; position: absolute; 
+.element-4{
+	background-color: transparent; top: 5px; left: 5px; width: 837px; height: 619px; z-index: 100; position: absolute; background-position: 0% 0%; background-repeat: repeat repeat;
 }
-.component_5{
-	background-color: transparent; top: 710px; left: 25px; width: 100px; height: 100px; position: absolute; 
+.element-5{
+	background-color: rgba(255, 255, 255, 0.882353); border-top-left-radius: 5px; border-top-right-radius: 5px; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; top: 66px; left: 183px; width: 442px; height: 482px; right: 0px; position: absolute; background-position: 0% 0%; background-repeat: repeat repeat;
 }
-.component_6{
-	background-color: transparent; top: 5px; left: 5px; width: 786px; height: 633px; z-index: 100; position: absolute; 
+.element-6{
+	background-color: transparent; border-width: 0 0 1px 0; border-style: solid; border-color: rgba(139,139,139,1); top: 57px; left: 31px; width: 385px; height: 10px; bottom: ; right: ; z-index: ; position: absolute; 
 }
-.component_7{
-	background-color: rgba(255,255,255,0.5019607843137255); border-radius: 5px 5px 5px 5px; top: 68px; left: 176px; width: 442px; height: 482px; right: 0px; position: absolute; 
+.element-7{
+	top: 131px; left: 390px; width: 32px; height: 32px; bottom: ; right: ; z-index: ; position: absolute; 
 }
-.component_8{
-	background-color: transparent; border-width: 0 0 1px 0; border-style: solid; border-color: rgba(139,139,139,1); top: 57px; left: 31px; width: 385px; height: 10px; position: absolute; 
+.element-8{
+	top: 172px; left: 390px; width: 32px; height: 32px; bottom: ; right: ; z-index: ; position: absolute; 
 }
-.component_9{
-	top: 131px; left: 390px; width: 32px; height: 32px; position: absolute; 
+.element-9{
+	background-color: transparent; top: 22px; left: 0px; width: ; height: 30px; bottom: ; right: 0px; z-index: ; position: absolute; 
 }
-.component_10{
-	top: 172px; left: 390px; width: 32px; height: 32px; position: absolute; 
-}
-.component_11{
-	background-color: transparent; top: 22px; left: 0px; height: 30px; right: 0px; position: absolute; 
-}
-.component_12{
+.element-10{
 	top: 256px; left: 390px; width: 32px; height: 32px; position: absolute; 
 }
-.component_13{
-	top: 212px; left: 390px; width: 32px; height: 32px; position: absolute; 
+.element-11{
+	top: 212px; left: 390px; width: 32px; height: 32px; bottom: ; right: ; z-index: ; position: absolute; 
 }
-.component_14{
-	background-color: transparent; top: 66px; left: 32px; width: 381px; height: 364px; position: absolute; 
+.element-12{
+	background-color: transparent; top: 66px; left: 32px; width: 381px; height: 364px; bottom: ; right: ; z-index: ; position: absolute; 
 }
-.component_15{
-	border-radius: 8px 8px 8px 8px; top: 17px; left: 41px; width: 32px; height: 32px; position: absolute; 
+.element-13{
+	border-radius: 8px 8px 8px 8px; top: 17px; left: 41px; width: 32px; height: 32px; bottom: ; right: ; z-index: ; position: absolute; 
 }
-.component_15:hover{
-	border-radius: 8px 8px 8px 8px; 
+.element-14{
+	top: 300px; left: 390px; width: 32px; height: 32px; bottom: ; right: ; z-index: ; position: absolute; 
 }
-.component_16{
-	top: 300px; left: 390px; width: 32px; height: 32px; position: absolute; 
+.element-15{
+	background-color: transparent; top: 87px; left: 33px; width: 328px; height: 353px; bottom: ; right: ; z-index: ; position: absolute; 
 }
-.component_17{
-	background-color: transparent; top: 87px; left: 33px; width: 328px; height: 353px; position: absolute; 
+.element-16{
+	background-color: transparent; border-width: 0px 0px 0px 0px; border-style: solid; border-radius: 10px 10px 10px 10px; border-color: rgba(147,147,147,1); top: 426px; left: 247px; width: 190px; height: 55px; bottom: ; right: ; z-index: ; position: absolute; 
 }
-.component_18{
-	background-color: transparent; border-width: 0px 0px 0px 0px; border-style: solid; border-radius: 10px 10px 10px 10px; border-color: rgba(147,147,147,1); top: 426px; left: 247px; width: 190px; height: 55px; position: absolute; 
+.element-17{
+	top: 12px; left: 147px; width: 32px; height: 32px; bottom: ; right: ; z-index: ; position: absolute; 
 }
-.component_18:hover{
-	background-color: transparent; 
-}
-.component_19{
-	top: 12px; left: 147px; width: 32px; height: 32px; position: absolute; 
-}
-.component_20{
-	background-color: transparent; top: 18px; left: 19px; width: 118px; height: 31px; position: absolute; 
-}
-body{
-	0: background-color: rgba(0,0,0,1); top: ; left: ; width: ; height: ; bottom: ; right: ; z-index: ; position: absolute; ; 
+.element-18{
+	background-color: transparent; top: 18px; left: 19px; width: 118px; height: 31px; bottom: ; right: ; z-index: ; position: absolute; 
 }
