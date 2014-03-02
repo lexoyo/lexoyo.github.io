@@ -45,10 +45,10 @@
 	top: 300px; left: 390px; width: 32px; height: 32px; bottom: ; right: ; z-index: ; position: absolute; 
 }
 .element-15{
-	background-color: transparent; top: 87px; left: 33px; width: 328px; height: 353px; bottom: ; right: ; z-index: ; position: absolute; 
+	background-color: transparent; top: 106px; left: 33px; width: 328px; height: 350px; position: absolute;
 }
 .element-16{
-	background-color: transparent; border-width: 0px 0px 0px 0px; border-style: solid; border-radius: 10px 10px 10px 10px; border-color: rgba(147,147,147,1); top: 426px; left: 247px; width: 190px; height: 55px; bottom: ; right: ; z-index: ; position: absolute; 
+	background-color: transparent; border: 0px solid rgb(147, 147, 147); border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; top: 426px; left: 247px; width: 190px; height: 55px; position: absolute;
 }
 .element-17{
 	top: 12px; left: 147px; width: 32px; height: 32px; bottom: ; right: ; z-index: ; position: absolute; 
