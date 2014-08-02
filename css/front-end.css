@@ -1,37 +1,35 @@
 /* the body covers the whole available space */
 /* the body is resized to its content size when needed in front-end.js */
 body{
-	width: 100%;
-	height: 100%;
+  min-width: 99%;
+  min-height: 99%;
   position: absolute;
+  padding: 5px;
 }
 /* pages */
 .page-element{
   display: none;
 }
 .paged-element{
-	display: none;
+  display: none;
 }
 /* background */
 .background{
-	position: relative !important;
-	left: inherit !important;
-	top: 0 !important; /* !important is useful while editing */
-	margin-left: auto;
-	margin-right: auto;
-	z-index: 1;
+  position: relative !important;
+  left: 0 !important;
+  top: 0 !important; /* !important is useful while editing */
+  margin-left: auto;
+  margin-right: auto;
+  z-index: 1;
 }
 /* default style for silex elements */
 .silex-element-content{
-	overflow: hidden;
-	border-radius: inherit;
-}
-.text-element .silex-element-content{
   overflow: hidden;
+  border-radius: inherit;
 }
 /* links default formatting */
 .editable-style[data-silex-href]{
-	cursor: pointer;
+  cursor: pointer;
 }
 .text-element a, a.text-element{
   color: inherit;
@@ -41,3 +39,6 @@ body{
   color: inherit;
   text-decoration: underline;
 }
+/* Remove dots surrounding links in Firefox
+    because of normalize.css */
+a:focus{ outline: none;}
