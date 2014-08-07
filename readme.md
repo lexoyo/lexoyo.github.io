@@ -1,8 +1,8 @@
 #What is this?
 
-These 2 HTML pages ([editable.html](http://lexoyo.github.io/editable.html) and [editable2.html](http://lexoyo.github.io/editable2.html) ), are my "about me" pages, at http://lexoyo.me , hosted on github, at http://lexoyo.github.io/
+This HTML page ([editable.html](http://lexoyo.github.io/editable.html)) is my "about me" page, here at http://lexoyo.me , hosted by github with [gihub pages](https://pages.github.com/).
 
-These pages are made without programming, just drag and drop, with [Silex, live web creation](http://www.silex.me/). So feel free to fork and use it for your own user page.
+This page is made without programming, just drag and drop, with [Silex, live web creation](http://www.silex.me/). So feel free to fork and use it for your own user page.
 
 Silex template by lexoyo is licensed under a Creative Commons Attribution 3.0 Unported License.
 
