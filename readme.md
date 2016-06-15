@@ -6,6 +6,10 @@ This page is made without programming, just drag and drop, with [Silex, live web
 
 Silex template by lexoyo is licensed under a Creative Commons Attribution 3.0 Unported License.
 
+Please leave comments here
+https://github.com/lexoyo/lexoyo.github.io/issues
+
+
 #other nice themes for github
 
 * http://www.atmos.org/
