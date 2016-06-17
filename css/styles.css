@@ -26,12 +26,12 @@
             top: 0px;
             bottom: 0px;
             right: 400px;
-            width: initial; 
-            height: initial;
+            width: auto; 
+            height: auto;
         }
         
         div.big-container {
-            left: initial;
+            left: auto;
             top: 0px;
             bottom: 0px;
             right: 0px;
@@ -51,7 +51,7 @@
         }
     div.bottom {
         bottom: 0;
-        top: initial;
+        top: auto;
     }
     
         .body-initial {
