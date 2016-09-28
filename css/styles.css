@@ -20,11 +20,12 @@
             padding-top: 0 !important;
             min-height: 1200px !important;
         }
-        
-        div.big-image {
-            left: 0px;
+        div.full-height {
             top: 0px;
             bottom: 0px;
+        }
+        div.big-image {
+            left: 0px;
             right: 400px;
             width: auto; 
             height: auto;
@@ -32,8 +33,6 @@
         
         div.big-container {
             left: auto;
-            top: 0px;
-            bottom: 0px;
             right: 0px;
         }
         
@@ -56,27 +55,28 @@
     div.tof img {
         border-radius: 50%;
         border: 1px solid;
+        cursor: pointer;
+        transition: all 1s ease;
+    }
+    div.tof img:hover {
+        border-radius: 50%;
+        border: 1px solid;
+        cursor: pointer;
+        transform: rotate(5deg);
+    }
+    div.scrollale {
+        overflow-y: auto;
+        overflow-x: hidden;
     }
     
         .body-initial {
             background-color: rgba(255,255,255,1); 
         }
-        .silex-id-1465925224448-0 {
-            min-height: 180px; 
-            width: 430px; 
-            top: 1px; 
-            left: 0px; 
-            background-color: rgba(218,218,218,1); 
-            background-image: url('../assets/to-small.jpg'); 
-            background-position: top center; 
-            background-repeat: no-repeat; 
-            background-size: cover; 
-        }
         .silex-id-1465925818136-2 {
-            min-height: 80px; 
-            width: 400px; 
-            top: 2px; 
-            left: 685px; 
+            min-height: 1356px; 
+            width: 394px; 
+            top: 0px; 
+            left: 1219px; 
             background-color: rgb(255, 255, 255); 
         }
         @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.silex-id-1465925818136-2 {
@@ -86,10 +86,10 @@
             min-height: 1333px; 
         }
         }.silex-id-1475079007535-1 {
-            width: 168px; 
-            top: 6px; 
-            left: 119px; 
-            min-height: 168px; 
+            width: 130px; 
+            top: 20px; 
+            left: 140px; 
+            min-height: 130px; 
             border-radius: 148px 148px 148px 148px; 
         }
         .silex-id-1475080093084-2 {
@@ -164,22 +164,29 @@
             width: 32px; 
             min-height: 32px; 
         }
+        .silex-id-1475091163829-0 {
+            min-height: 944px; 
+            width: 379px; 
+            top: 391px; 
+            left: 9px; 
+            background-color: rgb(255, 255, 255); 
+        }
         .silex-id-1465925488753-1 {
             min-height: 518px; 
             width: 360px; 
-            top: 390px; 
-            left: 19px; 
+            top: 11px; 
+            left: 11px; 
         }
         @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.silex-id-1465925488753-1 {
             top: 188px; 
             left: 11px; 
             width: 423px; 
-            min-height: 250px; 
+            min-height: 219px; 
         }
         }.silex-id-1466003398105-95 {
             width: 130px; 
-            top: 941px; 
-            left: -4px; 
+            top: 542px; 
+            left: -22px; 
             box-sizing: content-box; 
             min-height: 280px; 
         }
@@ -191,8 +198,8 @@
         }
         }.silex-id-1466003398100-68 {
             width: 230px; 
-            top: 971px; 
-            left: 152px; 
+            top: 572px; 
+            left: 134px; 
             box-sizing: content-box; 
             border-top-color: rgb(0, 0, 0); 
             border-right-color: rgb(0, 0, 0); 
@@ -330,8 +337,8 @@
         .silex-id-1466007614211-99 {
             min-height: 50px; 
             width: 400px; 
-            top: 1180px; 
-            left: 0px; 
+            top: 881px; 
+            left: -18px; 
             background-color: transparent; 
         }
         .silex-id-1466007614212-100 {
@@ -339,5 +346,17 @@
             width: 250px; 
             top: 3px; 
             left: 80px; 
+        }
+        .silex-id-1465925224448-0 {
+            min-height: 1376px; 
+            width: 1220px; 
+            top: 0px; 
+            left: 0px; 
+            background-color: rgba(218,218,218,1); 
+            background-image: url('../assets/to-small.jpg'); 
+            background-position: bottom center; 
+            background-repeat: no-repeat; 
+            background-size: cover; 
+            background-attachment: fixed; 
         }
     
