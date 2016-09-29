@@ -1,11 +1,12 @@
 
-        /* Font from https://fontlibrary.org/en/font/archivo-narrow */
+        /* Font from https://fontlibrary.org/en/font/archivo-narrow * /
         @font-face {
             font-family: 'mononokiRegular';
             src: url('../assets/mononokiRegular.ttf') format('truetype');
             font-weight: 100;
             font-style: normal;
         }
+        /* */
 .hi-index {
     z-index: 10;
 }
@@ -39,8 +40,8 @@
         h1, h2 {
             line-height: 0.4;
             letter-spacing: 0;
-            font-weight: normal; 
-            font-family: 'mononokiRegular', serif;
+            font-weight: 100; 
+/*            font-family: 'mononokiRegular', serif; */
             text-align: center;
         }
         
@@ -100,7 +101,7 @@
         }
         .silex-id-1466003398090-60 {
             width: 351px; 
-            top: 315px; 
+            top: 327px; 
             left: 23px; 
             box-sizing: content-box; 
             border-top-color: rgb(0, 0, 0); 
@@ -167,7 +168,7 @@
         .silex-id-1475091163829-0 {
             min-height: 944px; 
             width: 379px; 
-            top: 391px; 
+            top: 411px; 
             left: 9px; 
             background-color: rgb(255, 255, 255); 
         }
@@ -357,6 +358,6 @@
             background-position: center center; 
             background-repeat: no-repeat; 
             background-size: cover; 
-            background-attachment: fixed; 
+            background-attachment: scroll; 
         }
     
