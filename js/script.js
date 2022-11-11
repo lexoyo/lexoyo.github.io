@@ -1,14 +1,4 @@
 
-        $(function() {
-            $('.tof').click(function() {
-                $('.big-image')
-                    .animate({top: '99%'}, 200, function() {
-                        $('.big-image')
-                        .css('background-image', "url('assets/from-small.jpg')")
-                        .animate({top: '0'}, 1000, function() {
-                        });
-                    })
-                console.log('aaa');
-            });
-        })
-    
+
+    window.silex = window.silex || {}
+    window.silex.data = {"site":{"width":null},"pages":[{"id":"page-page-1","displayName":"Page 1","link":{"linkType":"LinkTypePage","href":"#!page-page-1"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true}]}
